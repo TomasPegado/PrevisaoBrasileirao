@@ -25,6 +25,7 @@ times = dict()
 rod_total = pd.DataFrame()
 rod = pd.DataFrame()
 
+
 # Função para importar os dados
 def dados_import():
     ## Campeonato 
