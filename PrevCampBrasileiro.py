@@ -18,7 +18,7 @@ import random
 ## Importando Parametros 
 ## Chaves
 live = 'live_0c4bb3b9bb64403be363456befefe8'
-autho={'Authorization': f'Bearer {live}'}
+autho = {'Authorization': f'Bearer {live}'}
 
 ## Campeonato 
 campeonato = {'campeonato-brasileiro':10}
