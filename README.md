@@ -1,4 +1,4 @@
-# Código para obter as chances de cada time no Campeonato Brasileiro
+# Código para obter as chances de um time de vencer o Brasileirão
 
 * O programa retorna as chances dos times na Série A do campeonato em um dicionário(dict_previsao)
 
