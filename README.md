@@ -15,5 +15,8 @@
     - Para usar esse código de modo eficiente é preciso fazer login nesse site e 
     gerar sua chave para as requisições dos dados. Essa chave é usada para puxar os dados
     por meio da api do site.
+    
+    - Podem usar o código com a minha chave, mas pode ocorrer de ter atingido o limite de requisições
+    do site ou a chave não estar atualizada.
 
     - Obs: Conferir o limite de requisições permitidas por dia pelo site para o plano gratuito
