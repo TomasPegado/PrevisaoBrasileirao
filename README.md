@@ -18,5 +18,7 @@
     
     - Podem usar o código com a minha chave, mas pode ocorrer de ter atingido o limite de requisições
     do site ou a chave não estar atualizada.
+    
+    - Conferir se seu plano no site permite puxar dados das rodadas do campeonato.
 
-    - Obs: Conferir o limite de requisições permitidas por dia pelo site para o plano gratuito
+    - Conferir o limite de requisições permitidas por dia pelo site para o plano gratuito.
